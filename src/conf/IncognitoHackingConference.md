@@ -1,7 +1,10 @@
 ## 2018 인코그니토 해킹 컨퍼런스
+> 공식 홈페이지
+- [INCOGNITO](https://inc0gnito.azurewebsites.net/)
+- [페이스북](https://www.facebook.com/incognitocon)
 > 참가 일정 및 발표 관련 일정
-- 2018. 08. 17(FRI) ~ 18(SAT)
-- 2018. 08. 18 11:00 ~ 11:50 / No Gone / 웹퍼징 툴 분석 및 개발
+- 2018.08.17(FRI) ~ 18(SAT)
+- 2018.08.18 11:00 ~ 11:50 / No Gone / 웹퍼징 툴 분석 및 개발
 
 > 기여 내역
 - python 을 활용한 dictionary attack 방식의 퍼저 제작 : [Github](https://github.com/l0vey0u/Digda)
