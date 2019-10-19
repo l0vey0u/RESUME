@@ -5,4 +5,4 @@
 - [2018 인코그니토 해킹 컨퍼런스 발표 < 웹 퍼징 >](https://github.com/l0vey0u/RESUME/blob/master/src/conf/IncognitoHackingConference.md)
 
 ## vue-resume to png
-![](Resume.png)
+![](My_Resume.png)
