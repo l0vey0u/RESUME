@@ -9,7 +9,7 @@
 > 기여 내역
 - python 을 활용한 dictionary attack 방식의 퍼저 제작 : [Github](https://github.com/l0vey0u/Digda)
 - web sqli, xss cheat : [Github:SecLists/Fuzzing](https://github.com/danielmiessler/SecLists)
-- 프로그램 제작 및 시연 부분 발표 : [발표 자료](https://github.com/l0vey0u/RESUME/blob/master/src/conf/StudyFuzzing.pptx)
+- 프로그램 제작 및 시연 부분 발표 : [발표 자료](StudyFuzzing.pptx)
 
 > 기타
 - PCH팀의 "Heap 영역에서 발생할 수 있는 취약점 소개"를 듣고 발표를 전문적이게 하는 것도 중요하지만

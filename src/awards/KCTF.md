@@ -9,4 +9,4 @@
 
 > 기여 내역
 - Web과 Forensic 위주로 풀었다.
-- [라이트 업 보기](https://github.com/l0vey0u/RESUME/blob/master/src/awards/KCTF_WriteUp_Lucio.pdf)
+- [라이트 업 보기](KCTF_WriteUp_Lucio.pdf)
