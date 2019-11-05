@@ -10,6 +10,10 @@
 - [2018 제 2회 Samsung Security Tech Forum 참가]()
 - [2018 if(kakao)dev 2018 참가]()
 - [2019 제 9회 SW개발보안 컨퍼런스 참가]()
+
+> 기술 스택
+- ```Java``` : [뮤직플레이어](src/techStack/JAVA/MusicPlayer.md)
+- ```Python``` : [Fuzzer](src/techStack/Python/Fuzzer.md)
 ## 이력서
 ![](My_Resume.png)
 > Made by Vue-Resume
